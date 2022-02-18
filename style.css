@@ -18,5 +18,5 @@ h2
 }
 
 section {
-    background-image: url("images.jpg");
+    background-image: ("images.jpg");
        }
